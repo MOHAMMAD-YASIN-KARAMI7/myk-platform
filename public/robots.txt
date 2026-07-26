@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /api
+Disallow: /.well-known
+
+Allow: /
+
+Sitemap: https://myk-platform.com/sitemap.xml
