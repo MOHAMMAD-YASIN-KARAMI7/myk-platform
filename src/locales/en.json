@@ -1,0 +1,40 @@
+{
+  "common": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "projects": "Projects",
+    "articles": "Articles",
+    "courses": "Courses",
+    "en": "English",
+    "fa": "فارسی"
+  },
+  "home": {
+    "title": "Mohammad Yasin Karami",
+    "subtitle": "AI Engineer | Python Developer | Entrepreneur",
+    "slogan": "Building Tomorrow with Artificial Intelligence",
+    "viewProjects": "View Projects",
+    "contactMe": "Contact Me",
+    "introduction": "Welcome to my digital home. Here you'll find my projects, thoughts, and ways to connect.",
+    "skills": "Skills & Expertise",
+    "vision": "Vision & Future"
+  },
+  "about": {
+    "title": "About Mohammad Yasin Karami",
+    "biography": "Biography",
+    "journey": "Learning Journey",
+    "interests": "Current Interests",
+    "vision": "Future Vision"
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "description": "Have a question or want to work together? I'd love to hear from you.",
+    "name": "Name",
+    "email": "Email",
+    "subject": "Subject",
+    "message": "Message",
+    "submit": "Send Message",
+    "success": "Message sent successfully!",
+    "error": "Failed to send message. Please try again."
+  }
+}
